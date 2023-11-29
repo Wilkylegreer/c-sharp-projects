@@ -1,0 +1,14 @@
+C:\Users\Kyle\Desktop\Stuff\C# Projects\FakeVirsu\FakeVirsu\bin\Debug\FakeVirsu.exe.config
+C:\Users\Kyle\Desktop\Stuff\C# Projects\FakeVirsu\FakeVirsu\bin\Debug\FakeVirsu.exe
+C:\Users\Kyle\Desktop\Stuff\C# Projects\FakeVirsu\FakeVirsu\bin\Debug\FakeVirsu.pdb
+C:\Users\Kyle\Desktop\Stuff\C# Projects\FakeVirsu\FakeVirsu\obj\Debug\FakeVirsu.csprojAssemblyReference.cache
+C:\Users\Kyle\Desktop\Stuff\C# Projects\FakeVirsu\FakeVirsu\obj\Debug\FakeVirsu.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Desktop\Stuff\C# Projects\FakeVirsu\FakeVirsu\obj\Debug\FakeVirsu.exe
+C:\Users\Kyle\Desktop\Stuff\C# Projects\FakeVirsu\FakeVirsu\obj\Debug\FakeVirsu.pdb
+C:\Users\wilky\Documents\My Folders\Projects\C#\FakeVirsu\FakeVirsu\bin\Debug\FakeVirsu.exe.config
+C:\Users\wilky\Documents\My Folders\Projects\C#\FakeVirsu\FakeVirsu\bin\Debug\FakeVirsu.exe
+C:\Users\wilky\Documents\My Folders\Projects\C#\FakeVirsu\FakeVirsu\bin\Debug\FakeVirsu.pdb
+C:\Users\wilky\Documents\My Folders\Projects\C#\FakeVirsu\FakeVirsu\obj\Debug\FakeVirsu.csprojAssemblyReference.cache
+C:\Users\wilky\Documents\My Folders\Projects\C#\FakeVirsu\FakeVirsu\obj\Debug\FakeVirsu.csproj.CoreCompileInputs.cache
+C:\Users\wilky\Documents\My Folders\Projects\C#\FakeVirsu\FakeVirsu\obj\Debug\FakeVirsu.exe
+C:\Users\wilky\Documents\My Folders\Projects\C#\FakeVirsu\FakeVirsu\obj\Debug\FakeVirsu.pdb
